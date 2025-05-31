@@ -28,4 +28,5 @@ Open the index.html file in your web browser.
 That’s it! No server or installation needed — everything runs directly in the browser.
 Screenshots
 
+##Author
 Created by Pavle Milenović — feel free to reach out if you want to collaborate or have feedback!
