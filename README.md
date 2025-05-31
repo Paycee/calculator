@@ -20,9 +20,9 @@ Technologies Used
 How to Run
 
 Clone the repository:
-    git clone https://github.com/your-username/javascript-calculator.git
+    git clone [https://github.com/your-username/javascript-calculator.git]
 
-Open the index.html file in your web browser.
+Open the [index.html] file in your web browser.
 
 That’s it! No server or installation needed — everything runs directly in the browser.
 Screenshots
