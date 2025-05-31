@@ -1,0 +1,104 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 1em;
+}
+
+body
+{
+    background-color: antiquewhite;
+}
+
+.sve
+{
+    max-width: 500px;
+    margin-left: 700px;
+    margin-top: 150px;
+}
+h1
+{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 2em;
+}
+
+.kalkulator
+{
+    position: relative;
+    overflow: auto;
+    background-color: #3B3B3B;
+    border-radius: 5px;
+}
+
+#prozor
+{
+    height: 100px;
+    font-size: 2.2em;
+    color: white;
+    text-align: right;
+    line-height: 100px;
+    margin-right: 10px;
+}
+
+
+#prozor-mali
+{
+    height: 40px;
+    font-size: 1.2em;
+    color: antiquewhite;
+    text-align: right;
+    line-height: 40px;
+    margin-right: 10px;
+}
+
+.tastatura
+{
+    padding-top: 10px;
+    height: 380px;
+    text-align: center;
+}
+
+.dugme
+{
+    display: inline-block;
+    width: 120px;
+    height: 61px;
+    background-color: #525252;
+    border: #3B3B3B 2px solid;
+    border-radius: 5px;
+    padding-top: 17px;
+    font-size: 1.2em;
+    color: white;
+    cursor: pointer;
+}
+
+.dugme:hover
+{
+    background-color: #696969;
+    transition: 0.5s ease-in-out;
+}
+
+#jednako
+{
+    background-color: #E1C340;
+}
+
+#jednako:hover
+{
+    background-color: #FFB067;
+    transition: 0.5s ease-in-out;
+}
+
+#broj
+{
+    background-color: #696969;
+}
+
+#broj:hover
+{
+    background-color: #525252;
+    transition: 0.5s ease-in-out;
+}
