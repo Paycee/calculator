@@ -3,6 +3,8 @@
 This is a simple web calculator built using **HTML**, **CSS**, and **JavaScript**.  
 It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division through an interactive and responsive web interface.
 
+> **Note:** This project was developed in Serbian as required — apologies to international readers!
+
 ---
 
 ## Features
