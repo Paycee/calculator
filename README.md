@@ -37,7 +37,7 @@ No server or installation needed — everything runs directly in the browser.
 ## Screenshots
 
 
-![Calculator Screenshot]([./screenshots/calculator.png](https://github.com/Paycee/calculator/blob/main/Kalkulator.JPG))  
+![Calculator Screenshot](Kalkulator.JPG)  
 
 ---
 
