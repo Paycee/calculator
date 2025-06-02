@@ -28,7 +28,7 @@ It allows users to perform basic arithmetic operations like addition, subtractio
 1. Clone the repository:  
    `git clone https://github.com/Paycee/calculator.git`
 
-2. Open the `index.html` file in your web browser.
+2. Open the `Kalkulator.html` file in your web browser.
 
 No server or installation needed — everything runs directly in the browser.
 
@@ -36,7 +36,6 @@ No server or installation needed — everything runs directly in the browser.
 
 ## Screenshots
 
-*(Optional: Add screenshots of your calculator here to showcase the UI)*
 
 ![Calculator Screenshot](./screenshots/calculator.png)  
 
