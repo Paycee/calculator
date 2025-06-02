@@ -51,7 +51,8 @@ Created by **Pavle Milenović** — feel free to reach out if you want to collab
 
 - GitHub: [https://github.com/Paycee](https://github.com/Paycee)  
 - Email: pavle.milenovic@gmail.com  
-- Upwork / Freelancer: (Add your profile links here if you want)
+- [Upwork](https://www.upwork.com/freelancers/~01c2e1c44b41bb7941?mp_source=share)
+- [Freelancer](https://www.freelancer.com/u/pavlemilenovic?frm=pavlemilenovic&sb=t)
 
 ---
 
