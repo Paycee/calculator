@@ -1,31 +1,60 @@
-# JavaScript Calculator
+# Simple Web Calculator
 
-This is a simple web calculator built using HTML, CSS, and JavaScript.
+This is a simple web calculator built using **HTML**, **CSS**, and **JavaScript**.  
 It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division through an interactive and responsive web interface.
-Features
 
-✅ Clean and minimalistic design
-✅ Real-time calculation and display updates
-✅ Handles basic math operations
-✅ Fully frontend (no backend required)
-✅ Easy to extend for more advanced functions
-Technologies Used
+---
 
-    HTML
+## Features
 
-    CSS
+- ✅ Clean and minimalistic design  
+- ✅ Real-time calculation and display updates  
+- ✅ Handles basic math operations  
+- ✅ Fully frontend (no backend required)  
+- ✅ Easy to extend for more advanced functions  
 
-    JavaScript
+---
 
-How to Run
+## Technologies Used
 
-Clone the repository:
-    git clone [https://github.com/your-username/javascript-calculator.git]
+- HTML  
+- CSS  
+- JavaScript  
 
+---
 
-Open the index.html file in your web browser.
+## How to Run
 
-That’s it! No server or installation needed — everything runs directly in the browser.
-Screenshots
+1. Clone the repository:  
+   `git clone https://github.com/Paycee/calculator.git`
 
-Created by Pavle Milenović — feel free to reach out if you want to collaborate or have feedback!
+2. Open the `index.html` file in your web browser.
+
+No server or installation needed — everything runs directly in the browser.
+
+---
+
+## Screenshots
+
+*(Optional: Add screenshots of your calculator here to showcase the UI)*
+
+![Calculator Screenshot](./screenshots/calculator.png)  
+
+---
+
+## About Me
+
+Created by **Pavle Milenović** — feel free to reach out if you want to collaborate or have feedback!
+
+---
+
+## Contact
+
+- GitHub: [https://github.com/Paycee](https://github.com/Paycee)  
+- Email: pavle.milenovic@gmail.com  
+- Upwork / Freelancer: (Add your profile links here if you want)
+
+---
+
+Thank you for checking out my project!  
+Feel free to connect or ask questions.
